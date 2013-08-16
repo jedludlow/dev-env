@@ -1,0 +1,15 @@
+custom/background = #3f3f3f
+custom/currentline = #333333
+custom/occurence = #55007f
+custom/ctrlclick = #0000ff
+custom/sideareas = #efefef
+custom/matched_p = #688060
+custom/unmatched_p = #bd6e76
+custom/normal = (u'#dcdccc', False, False)
+custom/keyword = (u'#dfaf8f', True, False)
+custom/builtin = (u'#efef8f', False, False)
+custom/definition = (u'#efef8f', False, False)
+custom/comment = (u'#7f9f7f', False, True)
+custom/string = (u'#cc9393', False, False)
+custom/number = (u'#8cd0d3', False, False)
+custom/instance = (u'#dcdccc', False, True)
