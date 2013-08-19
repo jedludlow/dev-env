@@ -1,5 +1,5 @@
 custom/background = #2a2b24
-custom/currentline = #333333
+custom/currentline = #484848
 custom/occurence = #55007f
 custom/ctrlclick = #0000ff
 custom/sideareas = #efefef
